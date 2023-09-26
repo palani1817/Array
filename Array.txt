@@ -20,6 +20,7 @@ public class ArraySecond
   num[9] =94;
   num[10] =89;
   num[11] =100;
+   num[12]=18;
   System.out.println(num[4]);
   }
 
