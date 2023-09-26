@@ -21,13 +21,6 @@ public class ArraySecond
   num[10] =89;
   num[11] =100;
    num[12]=18;
-  System.out.println(num[4]);
+  System.out.println(num[12]);
   }
 
-
-Public class Array
-{
- public static void main(String [] args)
-{
- int number
-  }
